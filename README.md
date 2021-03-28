@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/997/1*2XG0QDBaeSBu3sWPjLKrBQ.jpeg" width="200" alt="Logo">
+  <img src="https://images.hrtechnologist.com/images/uploads/content_images/ai_based_recruitment_5d10eeaa410ce.jpg" width="200" alt="Logo">
 
   <h3 align="center">Increasing Inclusion</h3>
   <p align="center">
