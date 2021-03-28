@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/images/logo/logo.png" width="200" alt="Logo">
+  <img src="https://miro.medium.com/max/997/1*2XG0QDBaeSBu3sWPjLKrBQ.jpeg" width="200" alt="Logo">
 
   <h3 align="center">Increasing Inclusion</h3>
   <p align="center">
