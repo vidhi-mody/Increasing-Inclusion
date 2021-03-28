@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./public/images/logo/logo.png" width="200" alt="Logo">
 
-  <h3 align="center">Apply-by-AI</h3>
+  <h3 align="center">Increasing Inclusion</h3>
   <p align="center">
     Looking for candidates that rightly match your job requirements?
     Let AI handle it for you.
